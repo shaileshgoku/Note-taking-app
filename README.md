@@ -91,6 +91,14 @@ You can deploy this app using:
 
 ![screenshot of the project](images/1.png)
 
+![screenshot of the project](images/2.png)
+
+![screenshot of the project](images/3.png)
+
+![screenshot of the project](images/4.png)
+
+![screenshot of the project](images/5.png)
+
 ---
 
 ## 🙌 Acknowledgment
