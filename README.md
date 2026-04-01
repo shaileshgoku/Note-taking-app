@@ -50,8 +50,8 @@ Started as a CLI-based project and later upgraded into a web application using S
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/note-taking-app.git
-cd note-taking-app
+git clone https://github.com/shaileshgoku/Note-taking-app.git
+cd Note-taking-app
 ```
 
 2. Install dependencies:
@@ -89,7 +89,7 @@ You can deploy this app using:
 
 ## 📸 Demo
 
-(Add screenshots here after deployment)
+![screenshot of the project](images/1.png)
 
 ---
 
